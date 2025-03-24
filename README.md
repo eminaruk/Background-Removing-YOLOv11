@@ -1,5 +1,15 @@
 # Background Removing by using YOLO and mediapipe 
 
+## Dependecies
+
+Wee need some libraries for the code: 
+
+```
+pip install numpy ultralytics opencv-python mediapipe 
+```
+
+## Running 
+
 You can directly start with the main.py file
 
 ```
